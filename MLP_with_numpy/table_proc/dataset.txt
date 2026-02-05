@@ -1,0 +1,2 @@
+Ссылка для загрузки датасета diamonds.csv: 
+https://drive.google.com/file/d/1YVjnKLfoaPBbqHE8kl7npDBJOHbbWsmv/view?usp=sharing
