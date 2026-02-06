@@ -1,10 +1,9 @@
-Содержимое папки ./MLP\_with\_numpy/table\_proc/
+Содержимое папки ./MLP\_with\_numpy/:
 
 
 
-\- img\_proc.dir (каталог)
-
-\- table\_proc.dir (каталог)
+* img\_proc.dir (каталог)
+* table\_proc.dir (каталог)
 
 
 
