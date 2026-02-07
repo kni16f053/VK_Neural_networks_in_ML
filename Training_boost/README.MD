@@ -1,9 +1,10 @@
-Содержимое папки ./train\_boost/:
+Содержимое папки ./Training\_boost/:
 
 
 
 * optimizers.dir (каталог)
 * structural\_speedup.dir (каталог)
+* README.MD
 
 
 
@@ -15,6 +16,3 @@
 * Инициализации весов;
 * Регуляризация (DropOut, DropConnect);
 * Нормализация (BatchNorm, LayerNorm).
-
-
-
