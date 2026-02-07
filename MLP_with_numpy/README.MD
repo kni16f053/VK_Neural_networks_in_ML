@@ -4,6 +4,7 @@
 
 * img\_proc.dir (каталог)
 * table\_proc.dir (каталог)
+* README.MD
 
 
 
