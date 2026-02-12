@@ -1,0 +1,8 @@
+Ссылка для загрузки датасета cars196 (файл называется archive.zip):
+https://drive.google.com/file/d/1sYGlZVolXCm9FWA8O5mh_5twoTIhVtGX/view?usp=sharing
+
+Ссылка для загрузки аннотаций датасета cars196 (файл называется devkit.zip)
+https://drive.google.com/file/d/1Y8zhPSJQc3gP3xyJjBJIiHkUXCEEyat8/view?usp=sharing
+
+
+
